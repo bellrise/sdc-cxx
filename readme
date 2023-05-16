@@ -1,0 +1,4 @@
+sdc-cxx
+=======
+
+Library for operating on the Simple Data Container format using C++.
